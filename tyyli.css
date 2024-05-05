@@ -56,7 +56,6 @@ header {
     background-size: cover;
     margin: 0;
     padding: 0;
-    background-image: url(taustakuva.jpg), url(taustakuva.jpg);
     background-position: left, right; 
     background-size: cover; 
     background-repeat: no-repeat;
