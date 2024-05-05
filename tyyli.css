@@ -101,6 +101,11 @@ header {
 
 }
 
+.luukku4 img {
+  max-width: 100%; /* Ensure image does not exceed container width */
+  height: auto; /* Maintain aspect ratio */
+}
+
 .luukku5 { background-color: rgb(178, 247, 147);
   font-family: 'Times New Roman', Times, serif;
   font-size: 20px;
