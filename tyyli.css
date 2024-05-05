@@ -32,29 +32,55 @@ header {
   }
 
 
-  .luukku1 { background-image:url(taustakuva.jpg);
+  .luukku1 { background-color: beige;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    background-image: url(taustakuva.jpg), url(taustakuva.jpg);
+    background-position: left, right; 
+    background-size: cover; 
+    background-repeat: no-repeat;
     width: 80%;
+    height: 100vh;
     margin: 0 auto;
     padding: 20px;
-    background-color: beige;
 
 
   }
 
-  .luukku2 { background-image:url(taustakuva.jpg);
+  .luukku2 { background-color: beige;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    background-image: url(taustakuva.jpg), url(taustakuva.jpg);
+    background-position: left, right; 
+    background-size: cover; 
+    background-repeat: no-repeat;
     width: 80%;
+    height: 100vh;
     margin: 0 auto;
     padding: 20px;
-    background-color: beige;
     
 
   }
 
-  .luukku3 { background-image:url(taustakuva.jpg);
+  .luukku3 { background-color: beige;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    background-image: url(taustakuva.jpg), url(taustakuva.jpg);
+    background-position: left, right; 
+    background-size: cover; 
+    background-repeat: no-repeat;
     width: 80%;
+    height: 100vh;
     margin: 0 auto;
     padding: 20px;
-    background-color: beige;
-    
 
   }
