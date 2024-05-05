@@ -100,7 +100,7 @@ header {
 
 }
 
-.luukku5 { background-color: 178, 247, 147;
+.luukku5 { background-color: (178, 247, 147);
   font-family: 'Times New Roman', Times, serif;
   font-size: 20px;
   background-size: cover;
@@ -116,7 +116,7 @@ header {
 
 }
 
-.luukku6 { background-color: 178, 247, 147;
+.luukku6 { background-color: (178, 247, 147);
   font-family: 'Times New Roman', Times, serif;
   font-size: 20px;
   background-size: cover;
@@ -132,7 +132,7 @@ header {
 
 }
 
-.luukku7 { background-color: 178, 247, 147;
+.luukku7 { background-color: (178, 247, 147);
   font-family: 'Times New Roman', Times, serif;
   font-size: 20px;
   background-size: cover;
