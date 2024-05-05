@@ -33,16 +33,28 @@ header {
 
 
   .luukku1 { background-image:url(taustakuva.jpg);
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: beige;
 
 
   }
 
   .luukku2 { background-image:url(taustakuva.jpg);
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: beige;
     
 
   }
 
   .luukku3 { background-image:url(taustakuva.jpg);
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: beige;
     
 
   }
