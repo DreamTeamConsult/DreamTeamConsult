@@ -87,6 +87,7 @@ header {
 .luukku4 { background-color: rgb(178, 247, 147);
   font-family: 'Times New Roman', Times, serif;
   font-size: 20px;
+  color: black;
   background-size: cover;
   margin: 0;
   padding: 0;
@@ -100,9 +101,10 @@ header {
 
 }
 
-.luukku5 { background-color: (178, 247, 147);
+.luukku5 { background-color: rgb(178, 247, 147);
   font-family: 'Times New Roman', Times, serif;
   font-size: 20px;
+  color: black;
   background-size: cover;
   margin: 0;
   padding: 0;
@@ -116,9 +118,10 @@ header {
 
 }
 
-.luukku6 { background-color: (178, 247, 147);
+.luukku6 { background-color: rgb(178, 247, 147);
   font-family: 'Times New Roman', Times, serif;
   font-size: 20px;
+  color: black;
   background-size: cover;
   margin: 0;
   padding: 0;
@@ -132,9 +135,10 @@ header {
 
 }
 
-.luukku7 { background-color: (178, 247, 147);
+.luukku7 { background-color: rgb(178, 247, 147);
   font-family: 'Times New Roman', Times, serif;
   font-size: 20px;
+  color: black;
   background-size: cover;
   margin: 0;
   padding: 0;
