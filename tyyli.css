@@ -4,6 +4,7 @@ header {
     font-size: large; 
     margin-right: 90px;  
   } 
+  
    
       h1 { 
           color: beige; 
@@ -81,3 +82,69 @@ header {
     padding: 20px;
 
   }
+
+
+
+.luukku4 { background-color: rgb(178, 247, 147);
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+  background-position: left, right; 
+  background-size: cover; 
+  background-repeat: no-repeat;
+  width: 80%;
+  height: 100vh;
+  margin: 0 auto;
+  padding: 20px;
+
+}
+
+.luukku5 { background-color: 178, 247, 147ige;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+  background-position: left, right; 
+  background-size: cover; 
+  background-repeat: no-repeat;
+  width: 80%;
+  height: 100vh;
+  margin: 0 auto;
+  padding: 20px;
+
+}
+
+.luukku6 { background-color: 178, 247, 147;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+  background-position: left, right; 
+  background-size: cover; 
+  background-repeat: no-repeat;
+  width: 80%;
+  height: 100vh;
+  margin: 0 auto;
+  padding: 20px;
+
+}
+
+.luukku7 { background-color: 178, 247, 147;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+  background-position: left, right; 
+  background-size: cover; 
+  background-repeat: no-repeat;
+  width: 80%;
+  height: 100vh;
+  margin: 0 auto;
+  padding: 20px;
+
+}
