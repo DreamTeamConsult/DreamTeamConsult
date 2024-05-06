@@ -177,12 +177,7 @@ header {
   height: 100%;
   margin: 0 auto;
   padding: 20px;
-  img {
-    align-self: flex-start; /* Asettaa kuvan vasempaan reunaan */
-}
-h4 {
-  align-self: flex-end; /* Asettaa tekstin oikeaan reunaan */
-}
+
 
 }
 
