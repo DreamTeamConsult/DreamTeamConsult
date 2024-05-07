@@ -145,6 +145,11 @@ header {
 
 }
 
+.luukku6 img {
+  max-width: 100%; /* Ensure image does not exceed container width */
+  height: auto; /* Maintain aspect ratio */
+}
+
 .luukku7 { background-color: rgb(178, 247, 147);
   font-family: 'Times New Roman', Times, serif;
   font-size: 20px;
@@ -162,6 +167,10 @@ header {
 
 }
 
+.luukku7 img {
+  max-width: 100%; /* Ensure image does not exceed container width */
+  height: auto; /* Maintain aspect ratio */
+}
 
 .luukku8 { background-color: yellowgreen;
   font-family: 'Times New Roman', Times, serif;
