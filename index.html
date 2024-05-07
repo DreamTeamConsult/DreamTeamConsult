@@ -18,7 +18,7 @@
 <br>
 <div class="kalenteri">
   <nav class="kuva1"> 
-    <a href="luukku1.html">
+    <a id="luukku1" href="luukku1.html">
       <img src="luukku1.jpg" alt="Luukku 1">
     </a>
   </nav>
@@ -30,7 +30,7 @@
 
     // Jos päivämäärä ei ole 25.5, estä linkin klikkaus
     if (day !== 25 || month !== 5) {
-        var linkki = document.getElementById("kuva1");
+        var linkki = document.getElementById("luukku1");
         linkki.addEventListener("click", function(event) {
             event.preventDefault();
             alert("Luukkua ei voi avata tänään.");
