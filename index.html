@@ -22,6 +22,21 @@
       <img src="luukku1.jpg" alt="Luukku 1">
     </a>
   </nav>
+  <script>
+    // Tarkistetaan päivämäärä
+    var today = new Date();
+    var day = today.getDate();
+    var month = today.getMonth() + 1; // Tammikuu on 0, joten lisäämme 1
+
+    // Jos päivämäärä ei ole 25.5, estä linkin klikkaus
+    if (day !== 25 || month !== 5) {
+        var linkki = document.getElementById("luukku1");
+        linkki.addEventListener("click", function(event) {
+            event.preventDefault();
+            alert("Luukkua ei voi avata tänään.");
+        });
+    }
+</script>
 
   <nav class="kuva2"> 
     <a href="luukku2.html">
